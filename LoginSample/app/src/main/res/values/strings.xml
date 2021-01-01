@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LoginSample</string>
+    <string name="error_login_field_validation">login field validation</string>
+</resources>
